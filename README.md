@@ -212,13 +212,3 @@ python scripts/migrate_data.py --api-url http://localhost:9000
 
 ---
 
-## 👤 Author
-
-**Bhojraj Lalit Narware**  
-[GitHub](https://github.com/) | [LinkedIn](https://linkedin.com/)
-
----
-
-## 📝 License
-
-MIT
